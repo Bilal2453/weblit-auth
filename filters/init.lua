@@ -1,0 +1,3 @@
+return {
+  isAuthenticated = require('./isAuthenticated'),
+}
